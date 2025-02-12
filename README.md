@@ -27,4 +27,16 @@ This project is an internship assignment where I developed a Flutter application
 
 ### App Images
 
-<img src="https://github.com/lr-singh-rajput/dev_web/blob/my-new-branch/web/assets/assets/images/chat1.png" alt="Sample Image">
+
+
+<p align="center">
+  <img src="https://github.com/lr-singh-rajput/Assignment/blob/main/home.png" alt="Screenshot 1" width="300"/>
+  <img src="https://github.com/lr-singh-rajput/Assignment/blob/main/nameshow.png" alt="Screenshot 2" width="300"/>
+  <img src="https://github.com/lr-singh-rajput/Assignment/blob/main/phone.png" alt="Screenshot 3" width="300"/>
+  <img src="https://github.com/lr-singh-rajput/Assignment/blob/main/splace.png" alt="Screenshot 3" width="300"/>
+</p>
+
+
+
+<img src="" alt="Sample Image">
+<img src="" alt="Sample Image">
